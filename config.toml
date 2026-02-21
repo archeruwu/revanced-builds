@@ -1,18 +1,18 @@
-[YouTube Music Revanced]
+[YouTubeMusicRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
-[Reddit]
+[RedditRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
-[Tiktok Revanced]
+[TiktokRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
-[Twitch Revanced]
+[TwitchRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
-[Twitter Revanced]
+[TwitterRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
-[YouTube Revanced]
+[YouTubeRevanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patcher-args = "-e 'Custom branding' -OcustomName=YouTube ReVanced"
