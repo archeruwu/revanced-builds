@@ -1,18 +1,23 @@
-[YouTubeMusicRevanced]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-[RedditRevanced]
+[Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
-[TiktokRevanced]
+[Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
-[TwitchRevanced]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+[Twitch]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
-[TwitterRevanced]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+[Twitter]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 
-[YouTubeRevanced]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patcher-args = "-e 'Custom branding' -OcustomName=YouTube ReVanced"
+[YouTube]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+patcher-args = "-e 'Custom branding' -O customName=YouTube ReVanced"
+
+[GooglePhotos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
